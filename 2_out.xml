@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user>
+	<basic-info>
+		<name>zy</name>
+		<gender>man</gender>
+	</basic-info>
+	<hobbies>
+		<hobby>
+			<name>sing</name>
+			<level>
+				<value>high</value>
+				<unit>min</unit>
+			</level>
+		</hobby>
+	</hobbies>
+	<department>
+		<name>ring</name>
+		<location>floor1</location>
+	</department>
+</user>

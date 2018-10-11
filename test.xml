@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+    <metadata>
+        <csvfile>user.csv</csvfile>
+    </metadata>
+    <user>
+        <basic-info>
+            <name>2</name>
+            <gender>3</gender>
+        </basic-info>
+        <hobbies>
+            <metadata>
+                <csvfile>hobby.csv</csvfile>
+                <id>4</id>
+                <ref-csvfile>user.csv</ref-csvfile>
+                <ref-id>1</ref-id>
+            </metadata>
+            <hobby>
+                <name>2</name>
+                <level>
+                    <value>3</value>
+                    <unit>min</unit>
+                </level>
+            </hobby>
+        </hobbies>
+        <department>
+            <metadata>
+                <csvfile>department.csv</csvfile>
+                <id>1</id>
+                <ref-csvfile>user.csv</ref-csvfile>
+                <ref-id>4</ref-id>
+            </metadata>
+            <name>2</name>
+            <location>3</location>
+        </department>
+    </user>
+</root>

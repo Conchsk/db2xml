@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<user>
+	<basic-info>
+		<name>wyj</name>
+		<gender>man</gender>
+	</basic-info>
+	<hobbies>
+		<hobby>
+			<name>go</name>
+			<level>
+				<value>high</value>
+				<unit>min</unit>
+			</level>
+		</hobby>
+		<hobby>
+			<name>basketball</name>
+			<level>
+				<value>high</value>
+				<unit>min</unit>
+			</level>
+		</hobby>
+	</hobbies>
+	<department>
+		<name>bullet</name>
+		<location>floor2</location>
+	</department>
+</user>
