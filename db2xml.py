@@ -1,7 +1,7 @@
 # -*- coding: UTF-8 -*-
 import csv
-import re
 import os
+import re
 from xml.dom import minidom
 
 stack = []
